@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Baruf Kosgei
 ====================================================================================================================================
 
-Front-End Developer
+Full-Stack Developer
 -------------------
 
-I'm a front-end developer who specializes in React and NextJs.
+I'm a Full-stack developer who specializes in building web application using MERN Stack (MongoDB, Express, React & Node.js).
 
 * 🌍  I'm based in Fort Worth, Texas
 * 🖥️  See my portfolio at [BarufKosgei.com](http://www.barufkosgei.com)
