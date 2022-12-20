@@ -9,7 +9,6 @@ I'm a front-end developer who specializes in React and NextJs.
 * 🌍  I'm based in Fort Worth, Texas
 * 🖥️  See my portfolio at [BarufKosgei.com](http://www.barufkosgei.com)
 * ✉️  You can contact me at [barufkosgei@gmail.com](mailto:barufkosgei@gmail.com)
-* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on any JavaScript Projects
 
 ### Skills
