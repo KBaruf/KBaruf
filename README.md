@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 -------------------
 
-I'm a full Stack Developer who specializes in building application using MERN Stack (MongoDB, Express, React & Node.js).
+I am an experienced Full Stack Developer who is proficient in designing, developing, and deploying complex web applications that are secure, scalable, and efficient. As a problem solver, I always stay up-to-date with the latest trends and technologies in the field.
 
 * 🌍  I'm based in Fort Worth, Texas
 * 🖥️  See my portfolio at [BarufKosgei.com](http://www.barufkosgei.com)
