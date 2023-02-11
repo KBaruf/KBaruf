@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 -------------------
 
-I am an experienced Full Stack Developer who is proficient in designing, developing, and deploying complex web applications that are secure, scalable, and efficient. As a problem solver, I always stay up-to-date with the latest trends and technologies in the field.
+I am an experienced Full Stack Developer who is proficient in designing, developing, and deploying complex web applications that are secure, scalable, and efficient. As a problem solver and a technology enthusiast, I always stay up-to-date with the latest trends and technologies in the field.
 
 * 🌍  I'm based in Fort Worth, Texas
 * 🖥️  See my portfolio at [BarufKosgei.com](http://www.barufkosgei.com)
