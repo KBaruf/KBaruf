@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am an experienced Full Stack Developer who is proficient in designing, developing, and deploying complex web applications that are secure, scalable, and efficient. As a problem solver and a technology enthusiast, I always stay up-to-date with the latest trends and technologies in the field.
 
-* 🌍  I'm based in Fort Worth, Texas
+* 🌍  I'm based in Austin, Texas
 * 🖥️  See my portfolio at [BarufKosgei.com](http://www.barufkosgei.com)
 * ✉️  You can contact me at [barufkosgei@gmail.com](mailto:barufkosgei@gmail.com)
 * 🤝  I'm open to collaborating on any JavaScript Projects
